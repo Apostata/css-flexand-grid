@@ -25,7 +25,7 @@ flex-flow: flex-direction flex-wrap
 ### justify-content
 ### align-items
 
-## items
+## items dentro do container
 ### order
 
 nos itens dentro do container é possivel mudar a ordem de aparição
